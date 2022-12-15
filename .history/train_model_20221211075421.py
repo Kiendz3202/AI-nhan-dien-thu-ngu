@@ -21,7 +21,7 @@ from PIL import ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 
-# Dinh nghia cac bien ...
+# Dinh nghia cac bien
 
 gestures = {'L_': 'L',
            'fi': 'E',
